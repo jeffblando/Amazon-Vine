@@ -8,11 +8,11 @@ Analyzing Amazon reviews written by members of the paid Amazon Vine program. The
 
 - Total not paid reviews were 62028 out of them 29982 were five star reviews. 
 Percentage of not paid reviews were 48% 
-![percent_five_star_vine_not_paid.png](https://github.com/deepayogesh/Amazon_Vine_Analysis/blob/66fad4353e91f9b2438c244ee358e80afa2717ac/image/percent_five_star_vine_not_paid.png)
+![percent_five_star_vine_not_paid.png](image/percent_five_star_vine_not_paid.png)
  
 - Total paid reviews were 1266 out of them 432 were five star reviews. 
 Percentage of paid reviews were 34% 
-![percent_five_star_vine_paid.png](https://github.com/deepayogesh/Amazon_Vine_Analysis/blob/66fad4353e91f9b2438c244ee358e80afa2717ac/image/percentage_five_star_paid.png)
+![percent_five_star_vine_paid.png](image/percentage_five_star_paid.png)
 
 
 
